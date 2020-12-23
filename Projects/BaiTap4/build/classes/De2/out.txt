@@ -1,0 +1,2 @@
+Tong cua 3 so la: 0
+Phuong trinh co hai nghiem phan biet x1 = 1.0	x2 = -4.0

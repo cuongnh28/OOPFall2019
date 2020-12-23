@@ -1,0 +1,4 @@
+Day a khong la day tang giam.
+Day b khong la day tang giam.
+Tong so chan day a lon hon day b.
+tong1 86 tong2 -360

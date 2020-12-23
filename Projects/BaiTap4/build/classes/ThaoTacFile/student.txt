@@ -1,0 +1,3 @@
+B16DCCN044;Nguyen Hong Cuong;2.98
+B16DCAT123;Nguyen Trung Quan;3.32
+B16DCCN022;Nguyen Anh Quan;6.78

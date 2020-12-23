@@ -1,0 +1,3 @@
+Day 1 la day chua sap xep.
+Day a sau khi sap xep: 1 2 3 5 7 8 9 
+Day 2 la day sap xep.
